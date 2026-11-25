@@ -1,0 +1,14 @@
+{
+  "name": "self-learn",
+  "description": "Short learning sessions built around real work.",
+  "owner": {
+    "name": "hoangnvdev"
+  },
+  "plugins": [
+    {
+      "name": "learning-coach",
+      "source": "./learning-coach",
+      "description": "Short English and software learning sessions built around real work, with progress saved to a personal notebook repo."
+    }
+  ]
+}
